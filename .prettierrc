@@ -1,0 +1,6 @@
+{
+  "singleQuote": true,
+  "endOfLine": "lf",
+  "prettier.semi": true,
+  "tabWidth": 2
+}

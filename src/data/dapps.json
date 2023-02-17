@@ -1,0 +1,465 @@
+[
+  {
+    "category": "ChatPuppy",
+    "priority": 2,
+    "dapps": [
+      {
+        "name": "Home",
+        "description": "Free Crypto Faucet & Yeild Farming",
+        "url": "https://www.chatpuppy.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.puppy.chat/"
+      },
+      {
+        "name": "NFT",
+        "description": "Free Crypto Faucet & Yeild Farming",
+        "url": "https://www.chatpuppy.com/marketplace",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.chatpuppy.com/marketplace"
+      }
+    ]
+  },
+  {
+    "category": "Tool",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "Amberdata",
+        "description": "Your platform for blockchain health and intelligence.",
+        "url": "https://amberdata.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://amberdata.io/"
+      },
+      {
+        "name": "Gitcoin",
+        "description": "Incentivize or monetize work.",
+        "url": "https://gitcoin.co/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://gitcoin.co/"
+      },
+
+      {
+        "name": "Kickback",
+        "description": "Event management platform",
+        "url": "https://kickback.events/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://kickback.events/"
+      },
+
+      {
+        "name": "ENS domain manager",
+        "description": "Manage ENS domains",
+        "url": "https://manager.ens.domains",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://manager.ens.domains"
+      },
+
+      {
+        "name": "SCV.Finance",
+        "description": "Get a big picture of all your digital assets locked inside various DeFi projects across multiple blockchains.",
+        "url": "https://scv.finance",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://scv.finance"
+      },
+      {
+        "name": "Eth Gas Station",
+        "description": "Consumer oriented metrics for Eth Gas Market",
+        "url": "https://ethgasstation.info",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://ethgasstation.info"
+      },
+      {
+        "name": "Gas Now",
+        "description": "Eth Gas Price forecast system",
+        "url": "https://www.gasnow.org/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.gasnow.org/"
+      },
+      {
+        "name": "Matic Testnet Faucet",
+        "description": "Matic Faucet to access Mumbai and Goerli testnet tokens",
+        "url": "https://faucet.matic.network/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://faucet.matic.network/"
+      },
+      {
+        "name": "DASLA",
+        "description": "A DAS (Decentralized Account System) account registration tool.",
+        "url": "https://das.la",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://das.la"
+      },
+      {
+        "name": ".bit (Previously DAS)",
+        "description": "Your decentralized identity for Web3.0 life",
+        "url": "https://did.id/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://did.id/"
+      },
+      {
+        "name": "NFTSCAN",
+        "description": "NFT Explorer.",
+        "url": "https://nftscan.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://nftscan.com/"
+      }
+    ]
+  },
+  {
+    "category": "Marketplace",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "Eporio",
+        "description": "The cheaper marketplace for NFT - Non Fungible Tokens",
+        "url": "https://epor.io",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://epor.io"
+      },
+      {
+        "name": "Augur",
+        "description": "Decentralized prediction market",
+        "url": "https://www.augur.net/ipfs-redirect.html",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.augur.net/ipfs-redirect.html"
+      },
+      {
+        "name": "Name Bazaar",
+        "description": "A peer-to-peer marketplace for the exchange of names registered via the ENS",
+        "url": "https://namebazaar.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://namebazaar.io/"
+      },
+      {
+        "name": "OpenSea",
+        "description": "Peer-to-peer marketplace for scarce digital goods",
+        "url": "https://opensea.io",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://opensea.io"
+      },
+      {
+        "name": "SuperRare",
+        "description": "Collect art or submit your art as a creator",
+        "url": "https://superrare.co/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://superrare.co/"
+      },
+
+      {
+        "name": "ApeNow",
+        "description": "Buy now, pay later marketplace for NFTs.",
+        "url": "https://www.apenowpaylater.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.apenowpaylater.com/"
+      }
+    ]
+  },
+  {
+    "category": "Finance",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "TokenSets",
+        "description": "Enhance your portfolio with automated asset management strategies.",
+        "url": "https://www.tokensets.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.tokensets.com/"
+      },
+      {
+        "name": "BulkSender",
+        "description": "Batch sending of tokens",
+        "url": "https://bulksender.app/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://bulksender.app/"
+      },
+      {
+        "name": "Loanscan",
+        "description": "Get the best return for your Tokens",
+        "url": "https://loanscan.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://loanscan.io/"
+      },
+
+      {
+        "name": "MakerDAO CDP Portal",
+        "description": "Where you can interact with the Dai Credit System",
+        "url": "https://cdp.makerdao.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://cdp.makerdao.com/"
+      },
+      {
+        "name": "Nexo",
+        "description": "Instant Crypto Loans",
+        "url": "https://nexo.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://nexo.io/"
+      },
+      {
+        "name": "Zerion",
+        "description": "Trade and manage your digital assets across different wallets in one interface",
+        "url": "https://zerion.io",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://zerion.io"
+      },
+      {
+        "name": "dForce USDx",
+        "description": "A decentralized and synthetic indexed stablecoin with interest bearing capability",
+        "url": "https://usdx.dforce.network/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://usdx.dforce.network/"
+      },
+      {
+        "name": "LENDF.ME",
+        "description": "Algorithmic money markets for dForce USDx",
+        "url": "https://www.lendf.me/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.lendf.me/"
+      },
+      {
+        "name": "DeFi Money Market (DMM)",
+        "description": "Earn interest on your crypto through tokenized real world assets",
+        "url": "https://app.defimoneymarket.com",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://app.defimoneymarket.com"
+      },
+      {
+        "name": "Idle Finance",
+        "description": "DeFi Yield Aggregator and Rebalancing Protocol",
+        "url": "https://idle.finance",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://idle.finance"
+      },
+      {
+        "name": "DerivaDEX | Insurance Fund",
+        "description": "DerivaDEX is the next generation of crypto derivatives. Begin earning DDX by bootstrapping the insurance fund.",
+        "url": "https://insurance.derivadex.com",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://insurance.derivadex.com"
+      },
+      {
+        "name": "Mushrooms Finance",
+        "description": "Sustainable crypto earning in DeFi",
+        "url": "https://mushrooms.finance/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://mushrooms.finance/"
+      },
+      {
+        "name": "NAOS Finance",
+        "description": "A DeFi lending protocol allowing lenders and SME borrowers to facilitate permissionless and borderless loaning/borrowing transactions",
+        "url": "https://naos.finance",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://naos.finance"
+      },
+      {
+        "name": "AAG Staking",
+        "description": "Stake your $1AAG or $1AAG-ONE LP Tokens on our staking website to earn huge rewards. Benefit from high APRs and Capital Boosts with our Genesis NFTs.",
+        "url": "https://staking.aag.ventures/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://staking.aag.ventures/"
+      },
+      {
+        "name": "Lido",
+        "description": "Liquidity for staked assets",
+        "url": "https://lido.fi/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://lido.fi/"
+      }
+    ]
+  },
+  {
+    "category": "Directory",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "State of the ÐApps",
+        "description": "Directory of Decentralized Applications",
+        "url": "https://www.stateofthedapps.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.stateofthedapps.com/"
+      }
+    ]
+  },
+  {
+    "category": "Game",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "Axie Infinity",
+        "description": "Collect and raise fantasy creatures",
+        "url": "https://axieinfinity.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://axieinfinity.com/"
+      },
+      {
+        "name": "ChickenHunt",
+        "description": "character-growing IDLE game",
+        "url": "https://chickenhunt.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://chickenhunt.io/"
+      },
+      {
+        "name": "CryptoCare",
+        "description": "Social Impact Collectibles",
+        "url": "https://cryptocare.tech/adopt/cryptocare",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://cryptocare.tech/adopt/cryptocare"
+      },
+
+      {
+        "name": "Dragonereum",
+        "description": "Own and trade dragons, fight with other players",
+        "url": "https://dapp.dragonereum.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://dapp.dragonereum.io/"
+      },
+      {
+        "name": "HyperDragons",
+        "description": "Large scale strategy battle game",
+        "url": "https://hyperdragons.alfakingdom.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://hyperdragons.alfakingdom.com/"
+      },
+
+      {
+        "name": "Radi.Cards",
+        "description": "Creative, unique art pieces from from all around the interwebs.",
+        "url": "https://radi.cards/cardshop",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://radi.cards/cardshop"
+      },
+
+      {
+        "name": "CryptoKitties",
+        "description": "Collect and breed digital cats!",
+        "url": "https://cryptokitties.co",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://cryptokitties.co"
+      }
+    ]
+  },
+  {
+    "category": "Property",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "Mokens",
+        "description": "Create your own collectibles",
+        "url": "https://mokens.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://mokens.io/"
+      },
+      {
+        "name": "TENZ-ID",
+        "description": "TENZ-ID is a Decentralized Blockchain naming system",
+        "url": "https://tenzorum.org/tenz_id/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://tenzorum.org/tenz_id/"
+      }
+    ]
+  },
+  {
+    "category": "NFT",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "OpenSea",
+        "description": "Largest NFT marketplace. Buy, sell and discover items.",
+        "url": "https://opensea.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://opensea.io/"
+      }
+    ]
+  },
+  {
+    "category": "Social Media",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "Cent",
+        "description": "Earn cryptocurrency sharing your wisdom and creativity.",
+        "url": "https://beta.cent.co/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://beta.cent.co/"
+      },
+      {
+        "name": "Indorse",
+        "description": "Professional Network",
+        "url": "https://indorse.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://indorse.io/"
+      },
+      {
+        "name": "Peepeth",
+        "description": "Unstoppable microblogging",
+        "url": "https://peepeth.com/welcome",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://peepeth.com/welcome"
+      },
+
+      {
+        "name": "mail³",
+        "description": "Decentralized mail system for web3 natives.",
+        "url": "https://app.mail3.me/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://app.mail3.me/"
+      }
+    ]
+  },
+  {
+    "category": "Exchange",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "Alfacash",
+        "description": "Trade crypto instantly. ETH, BTC, XRP and 30+ other coins and tokens",
+        "url": "https://www.alfa.cash/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://www.alfa.cash/"
+      },
+
+      {
+        "name": "KyberSwap",
+        "description": "Instant and Secure Token to Token Swaps",
+        "url": "https://kyber.network/swap/eth_knc",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://kyber.network/swap/eth_knc"
+      },
+      {
+        "name": "localethereum",
+        "description": "Peer-to-peer marketplace allowing to trade eth to fiat",
+        "url": "https://localethereum.com/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://localethereum.com/"
+      },
+
+      {
+        "name": "Uniswap",
+        "description": "Protocol for automated token exchange",
+        "url": "https://uniswap.exchange",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://uniswap.exchange"
+      },
+
+      {
+        "name": "DEX.AG",
+        "description": "Trade cryptoassets at the best price",
+        "url": "https://dex.ag",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://dex.ag"
+      },
+      {
+        "name": "Totle Swap",
+        "description": "Totle automatically finds and acquires the best price across decentralized exchanges for ERC-20 swaps",
+        "url": "https://swap.totle.com",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://swap.totle.com"
+      },
+      {
+        "name": "1inch.exchange",
+        "description": "DEX Aggregator with the best prices on the market. Achieving best rates by splitting orders among multiple DEXes in one single transaction.",
+        "url": "https://1inch.exchange",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://1inch.exchange"
+      },
+
+      {
+        "name": "Levinswap",
+        "description": "Decentralized exchange for trading crypto and serurities tokens",
+        "url": "https://app.levinswap.org/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://app.levinswap.org/"
+      },
+      {
+        "name": "MetaPath",
+        "description": "Assets can be routed across different blockchains",
+        "url": "https://dapp.path.finance?source=alpha",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://dapp.path.finance?source=alpha"
+      },
+      {
+        "name": "SWFT",
+        "description": "One Stop Cross-Chain swap, supporting 300+ tokens on 30+ chains",
+        "url": "https://defi.swft.pro?sourceFlag=alpha",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://defi.swft.pro?sourceFlag=alpha"
+      },
+      {
+        "name": "Swapzone",
+        "description": "Swapzone is a custody-free cryptocurrency exchange aggregator with no registration needed.",
+        "url": "https://swapzone.io/",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://swapzone.io/"
+      },
+      {
+        "name": "AirCash",
+        "description": "AirCash is the first and largest decentralized OTC platform in the galaxy.",
+        "url": "https://aircash.finance",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://aircash.finance"
+      }
+    ]
+  },
+  {
+    "category": "Token Migration",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "Kyber Migration Portal",
+        "description": "Migration portal to upgrade legacy KNC to ERC-20 KNC tokens",
+        "url": "https://kyber.org/migrate",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://kyber.org/migrate"
+      }
+    ]
+  },
+  {
+    "category": "Travel",
+    "priority": 8,
+    "dapps": [
+      {
+        "name": "BTU Hotel",
+        "description": "BTU Hotel is a hotel booking Dapp takes 0% commission. Dapp user earns 100% of the hotel commission directly in crypto into their preferred browser wallet",
+        "url": "https://btu-hotel.com",
+        "icon": "https://www.google.com/s2/favicons?sz=128&domain=https://btu-hotel.com"
+      }
+    ]
+  }
+]
