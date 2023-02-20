@@ -23,20 +23,23 @@ function Dapps() {
                   ({categroy.dapps.length})
                 </div>
               </div>
-              <div className="mb-6 mt-4 grid grid-flow-row grid-cols-5 gap-3">
+              <div className="mb-6 mt-4 grid grid-flow-row grid-cols-4 gap-3">
                 {categroy.dapps.map((item, idx) => {
                   return (
                     <div
-                      className="w-[3.8rem] flex-col items-center justify-center"
-                      key={item.url + idx}
+                      className="w-[5.8rem] flex-col items-center justify-center"
+                      key={item.name + idx}
                       onClick={() => handleClick(item.url)}
                     >
-                      <div className="m-auto h-fit w-fit rounded-lg bg-white p-2">
+                      <div
+                        className="m-auto table-cell h-[4.8rem]
+                      w-[4.8rem] rounded-lg bg-white text-center align-middle"
+                      >
                         <img
                           src={item.icon}
-                          className="rounded-lg"
+                          className="m-auto"
                           style={{ width: size, height: size }}
-                        ></img>
+                        />
                       </div>
                       <div className="mt-1 truncate text-xs text-darkMajor">
                         {item.name}
