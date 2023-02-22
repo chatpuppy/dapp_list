@@ -23,7 +23,7 @@ function Dapps() {
                   ({categroy.dapps.length})
                 </div>
               </div>
-              <div className="mb-6 mt-4 grid  w-full grid-cols-4">
+              <div className="grid w-full  grid-cols-4">
                 {categroy.dapps.map((item, idx) => {
                   return (
                     <div
