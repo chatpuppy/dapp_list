@@ -2,7 +2,7 @@ import React from 'react';
 import dapps from '../data/dapps.json';
 
 function Dapps() {
-  const size = '2.8rem';
+  // const size = '2.2rem';
 
   const handleClick = (url) => {
     window.location.href = url;
@@ -23,23 +23,19 @@ function Dapps() {
                   ({categroy.dapps.length})
                 </div>
               </div>
-              <div className="mb-6 mt-4 grid grid-flow-row grid-cols-4 gap-3">
+              <div className="mb-6 mt-4 grid  w-full grid-cols-4">
                 {categroy.dapps.map((item, idx) => {
                   return (
                     <div
-                      className="w-[5.8rem] flex-col items-center justify-center"
+                      className="mx-auto my-2 w-[4rem] flex-col items-center justify-center"
                       key={item.name + idx}
                       onClick={() => handleClick(item.url)}
                     >
                       <div
-                        className="m-auto table-cell h-[4.8rem]
-                      w-[4.8rem] rounded-lg bg-white text-center align-middle"
+                        className="m-auto h-[3rem]
+                      w-[3rem] rounded-lg bg-white p-2 "
                       >
-                        <img
-                          src={item.icon}
-                          className="m-auto"
-                          style={{ width: size, height: size }}
-                        />
+                        <img src={item.icon} className="m-auto" />
                       </div>
                       <div className="mt-1 truncate text-xs text-darkMajor">
                         {item.name}
