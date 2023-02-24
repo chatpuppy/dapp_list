@@ -4,10 +4,10 @@
   "title_zh": "新的升级",
   "content": "1 fix some bugs \n2 add update moudle",
   "content_zh": "1 修复了bugs\n2 新增更新功能",
-  "url": "https://github.com/chatpuppy/wallet_android/releases/download/v1.0.6-alpha/chatpuppy_wallet_1.0.6_alpha.apk",
+  "url": "https://github.com/chatpuppy/wallet_android/releases/download/v1.0.6-alpha/chatpuppy_1.0.6_alpha.apk",
   "forceUpdate": true,
   "version": "1.0.6",
-  "versionCode": "106",
+  "versionCode": 106,
   "fileSize": 0,
-  "md5": "b700c5ab3ff8f906613396e4aeb8d4ac"
+  "md5": "68ea60101023e3cfc6c0306cc29dc750"
 }
