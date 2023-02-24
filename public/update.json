@@ -1,0 +1,13 @@
+{
+  "package": "org.chatpuppy.app",
+  "title": "New Update",
+  "title_zh": "新的升级",
+  "content": "1 fix some bugs \n2 add update moudle \n3 support new chain",
+  "content_zh": "1 修复了bugs\n2 新增更新功能\n3 支持新的链",
+  "url": "https://github.com/chatpuppy/wallet_android/releases/download/v1.0.5-alpha/chatpuppy_1.0.5_alpha.apk",
+  "forceUpdate": true,
+  "version": "1.0.6",
+  "versionCode": "106",
+  "fileSize": 0,
+  "md5": ""
+}
