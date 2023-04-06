@@ -1,7 +1,7 @@
 {
   "name": "chatpuppy_dapps",
-  "version": "0.1.0",
-	"license": "MIT",
+  "version": "0.1.1",
+  "license": "MIT",
   "homepage": "/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
